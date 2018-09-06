@@ -6,6 +6,7 @@ Ref Url:
 [http://blogs.uuu.com.tw/Articles/post/2018/07/11/%E5%88%9D%E6%8E%A2Blazor.aspx](http://blogs.uuu.com.tw/Articles/post/2018/07/11/%E5%88%9D%E6%8E%A2Blazor.aspx)
 
 install "ASP.NET Core Blazor Language Services"
+
 ![](asset/pic01.jpg)
 
 Runtime errors:
